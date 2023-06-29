@@ -27,6 +27,9 @@ p {
 ul {
   padding: 0;
 }
+img {
+  display: block;
+}
 .link {
   text-decoration: none;
   color: inherit;
@@ -37,6 +40,9 @@ ul {
 button {
   cursor: pointer;
   text-align: center;
+}
+header {
+  border-bottom: 1px solid #e7e9fc;
 }
 .visually-hidden {
   position: absolute;
