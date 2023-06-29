@@ -176,12 +176,12 @@ button {
   letter-spacing: 0.02em;
   color: var(--navy-blue);
 }
-/* .work-title {
-  margin-bottom: 72px;
-} */
-/* .work-list-item {
+.company-title {
+  margin-bottom: 8px;
+}
+.company-list-item {
   width: calc((100% - 48px) / 3);
-} */
+}
 .team-title,
 .work-title {
   font-size: 36px;
