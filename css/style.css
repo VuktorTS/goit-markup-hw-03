@@ -94,6 +94,7 @@ button {
   font-weight: 500;
   color: var(--navy-blue);
   letter-spacing: 0.02em;
+  padding: 24px 0;
 }
 .menu-link:hover,
 .menu-link:focus {
