@@ -195,22 +195,24 @@ button {
 .section-team {
   padding: 120px 0;
 }
+.team-name-container {
+  padding: 32px 16px;
+}
 .team-title,
 .company-text {
   letter-spacing: 0.02em;
 }
 .team-list-item {
   background-color: #ffffff;
+  border-radius: 0 0 4px 4px;
 }
 .team-name {
-  padding-top: 32px;
   margin-bottom: 8px;
   text-align: center;
 }
 .team-text {
   color: var(--slate);
   letter-spacing: 0.02em;
-  padding-bottom: 32px;
   text-align: center;
 }
 
