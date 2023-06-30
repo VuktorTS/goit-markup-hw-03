@@ -244,6 +244,7 @@ button {
 .portfolio-btn:focus {
   background-color: var(--ocean);
   color: #ffffff;
+  border: 1px solid transparent;
 }
 .project-list {
   display: flex;
